@@ -5,13 +5,14 @@ gitg# Weather-Dashboard
  https://rcsanchez1.github.io/Weather-Dashboard/
 
 
- ![](screenshot1.png)
-<<<<<<< HEAD
-=======
+ ![](img1.png)
  
->>>>>>> 92c4e3e8ba15e8e507a6f810d1579bbbe63e1be3
 
- ![](screenshot2.png)
+ 
+
+
+ ![](img2.png)
+ 
 
  
  
