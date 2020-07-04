@@ -6,7 +6,7 @@
  https://rcsanchez1.github.io/Weather-Dashboard/
 
 
- ![](Screenshot1.png)
+ ![](screenshot1.png)
  
 
  ![](screenshot2.png)
